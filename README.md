@@ -19,7 +19,11 @@ You can test the model or start your training from the weights of the already tr
 
 ### How to test
 
-Coming soon
+```
+$pip install -r requirements.txt
+$python generate.py images model.pth
+```
+
 
 ### Train your own model
 
