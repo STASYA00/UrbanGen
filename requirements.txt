@@ -1,0 +1,8 @@
+opencv-python
+functools
+json
+matplotlib
+numpy
+pillow
+torch
+torchvision
