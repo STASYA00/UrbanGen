@@ -19,10 +19,18 @@ You can test the model or start your training from the weights of the already tr
 
 ### How to test
 
+Please, configure the input parameters (save directory) in the ```config.py```.
 ```
 $pip install -r requirements.txt
 $python generate.py images model.pth
 ```
+
+#### Image Requirements:
+* style corresponds to the style of training images (see the illustrations above if using on eof pretrained models)
+* white and empty central block ("construction site")
+* surroundings present in a large part of the image
+* scale 1:3000
+* image dimensions 256x256
 
 
 ### Train your own model
