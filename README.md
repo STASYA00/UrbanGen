@@ -8,7 +8,7 @@ _Some of the results achieved during training with different models. The generat
 
 [Arxiv](https://arxiv.org/abs/2105.01727)   |    [SimAUD Video Presentation](https://www.youtube.com/watch?t=3317&v=jO5kzjUUG08&feature=youtu.be) (8 min)
 
-For dataset generation please, refer to [Urban Datasets repo](https://github.com/STASYA00/urban_datasets)
+For dataset generation refer to [Urban Datasets repo](https://github.com/STASYA00/urban_datasets)
 
 In order to create the datasets for training the model (or testing the existing model weights), please, refer to <a href="https://github.com/STASYA00/urban_datasets">this repo</a>. I have used the images with 256x256 dimensions.
 
