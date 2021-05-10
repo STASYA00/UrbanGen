@@ -40,3 +40,15 @@ $python generate.py images model.pth
 ### Train your own model
 
 Coming soon
+
+### Credits
+
+[Pix2pix paper](https://arxiv.org/abs/1611.07004v2)
+
+[Coursera GANs Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+
+[PyTorch Pix2pix implementation](https://github.com/mrzhu-cool/pix2pix-pytorch)
+
+[Tensorflow Pix2pix implementation](https://github.com/affinelayer/pix2pix-tensorflow)
+
+
