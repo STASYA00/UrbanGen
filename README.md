@@ -41,6 +41,21 @@ $python generate.py images model.pth
 
 Coming soon
 
+### Citation
+
+Bibtex format:
+
+```
+@inproceedings{gan4ud,
+    author = {Fedorova, Stanislava},
+    title = {GANs for Urban Design},
+    year = {2021},
+    month = {04},
+    pages = {9},
+    booktitle = {In proceedings of 12th Symposium on Simulation for Architecture and Urban Design (SimAUD 2021)}
+}
+```
+
 ### Credits
 
 [Pix2pix paper](https://arxiv.org/abs/1611.07004v2)
